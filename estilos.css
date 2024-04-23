@@ -1,0 +1,70 @@
+main{
+    margin: auto;
+    background-color:white;
+}
+header{
+    margin: auto;
+    display: flex;
+    white-space: nowrap;
+    background-color: white;
+}
+
+.cabecita{
+    display: flex;
+    list-style: none;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    background-color: white;
+}
+.cabecita li{
+    white-space: nowrap;
+    margin-right: 2rem;
+    font-family: Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif;
+    background-color: white;
+}
+
+.img1{
+
+    padding-left: 100px;
+    background-color: white;
+}
+.img2{
+    width: auto;
+    background-color: white;
+}
+p{
+    display: flex;
+    background-color: white;
+}
+.hol{
+    padding-left: 150px;
+    padding-top: 50px;
+}
+.hola{
+  padding-left: 400px;
+  padding-top: -100px;
+}
+.cajita{
+    padding-top: 5px;
+    padding-left: 50px;
+}
+.master{
+    background-color: #F2F2F2;
+}
+.cajita section{
+    margin-top: -50px;
+    padding-left: 100px;
+}
+.cajita p{
+    font-family: Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.mimi section{
+    padding-left: 100px;
+    padding-top: 95px;
+}
+.momo section{
+    padding-left: 400px;
+    padding-bottom: 20px;
+}
+
